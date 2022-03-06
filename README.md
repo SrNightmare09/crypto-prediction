@@ -19,6 +19,8 @@
 - [Contributing](https://github.com/SrNightmare09/crypto-prediction#contributing)
 - [MIT License](https://github.com/SrNightmare09/crypto-prediction#license)
 
+---
+
 ## Features
 
 - Interactive graph
