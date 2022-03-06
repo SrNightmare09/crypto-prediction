@@ -32,7 +32,7 @@ MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
 - Another moving average, this time for 20 days (MA₂₀), is plotted in the graph as the 'Death Line', where
 
 ```
-MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 5
+MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 ```
 
 - The graph helps detecting bullish and bearish trends, ie. helps when you should buy or sell. It is explained in the following points.
