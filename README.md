@@ -20,3 +20,17 @@
 - Along with the graph, a table is also rendered to output important data
 
 ###### *Head to [project screenshots](/screenshots) to check out the mentioned features!*
+
+## How it works
+
+- The program receives data of the chosen cryptocurrency from Yahoo finance from which it creates a chart based on the original prices of the cryptocurrency. 
+- Moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
+
+```
+MA₅ = (M₁ + M₂ + M₃ + M₄ + M₅) / 5
+```
+- Another moving average, this time for 20 days (MA₂₀), is plotted in the graph as the 'Death Line', where
+
+```
+MA₁₂₃₄₅₀ = (M₁ + M₂ + M₃ + M₄ ... M₂₀) / 5
+```
