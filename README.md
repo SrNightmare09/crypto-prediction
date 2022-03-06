@@ -109,7 +109,7 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 > - [Yahoo! Finance](https://pypi.org/project/yfinance/)
 > - [Plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 
-> Sources for understanding algorithm
+> Sources for understanding the algorithm
 > - [Binance - Golden Cross and Death Cross Explained](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)
 > - [YouTube - Golden Cross Explained: Why most traders get it wrong (and how it really works)](https://www.youtube.com/watch?v=6mckJdktXkc)
 > - [YouTube - 15 min Crypto Trading Strategy Golden Cross Tested 100 times](https://www.youtube.com/watch?v=Iw5sHVlSzaE)
