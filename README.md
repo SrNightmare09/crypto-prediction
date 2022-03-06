@@ -9,6 +9,8 @@
 
 ---
 
+<br>
+
 ## Table of Contents
 
 - [Features](https://github.com/SrNightmare09/crypto-prediction#features)
@@ -20,6 +22,8 @@
 - [MIT License](https://github.com/SrNightmare09/crypto-prediction#license)
 
 ---
+
+<br>
 
 ## Features
 
@@ -36,6 +40,8 @@
 ###### *Head to [project screenshots](/screenshots) to check out the mentioned features!*
 
 ---
+
+<br>
 
 ## Installation
 
@@ -64,6 +70,8 @@ pip install plotly
 - And, we're done! But that's not it, feel free to edit the code as you wish, add features and feel free to send a pull request. Read about contributing [here](CONTRIBUTING.md)
 
 ---
+
+<br>
 
 ## How It Works - The Gold Line vs Death Line Algorithm
 
@@ -101,6 +109,8 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 
 ---
 
+<br>
+
 ## Resources
 
 #### Here is a list of resources which helped me, both - the libraries I used and the sources which helped me for the understanding of the algorithm
@@ -118,6 +128,8 @@ I would like to thank for the availibilty of these resources as the project woul
 
 ---
 
+<br>
+
 ## Upcoming Features
 
 #### A list of a few features which I will add in the later versions of the project - 
@@ -129,6 +141,10 @@ I would like to thank for the availibilty of these resources as the project woul
 - [ ] Implement code into a downloadable and useable application
 - [ ] Add more graph tools (like drawing tools)
 - [ ] Implement shortcuts for graph tools
+
+---
+
+<br>
 
 ## Contributing
 
