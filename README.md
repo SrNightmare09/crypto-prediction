@@ -6,6 +6,9 @@
 
 ## Features
 
+- Interactive graph
+<img src = "/screenshots/graph.png">
+
 - Allows user to input to customize the following in the chart - currency, cryptocurrency, time period and time interval
 <img src = "/screenshots/custom_input.png">
 
