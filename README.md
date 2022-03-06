@@ -18,3 +18,5 @@
 - Data is viewable for every candlestick in the data chart
 
 - Along with the graph, a table is also rendered to output important data
+
+###### *Head to [project screenshots](/screenshots) to check out the mentioned features!*
