@@ -1,6 +1,6 @@
 # Cryptocurrency Prediction Help
 
-#### A cryptocurrency bot which can help you predict future crypto prices through comparing previous crypto prices with actual prices. The bot used the method of Death Cross vs Golden Cross, a reliable method for solid predictions of prices, to make plot previously predicted data.
+#### A cryptocurrency bot which can help you predict future crypto prices through comparing previous crypto prices with actual prices. The bot uses the method of Death Cross vs Golden Cross, a reliable method for solid predictions of prices, to make a plot based on previously predicted data.
 
 ---
 <img src = "/screenshots/graph.png">
@@ -44,6 +44,7 @@
 ```
 git clone https://github.com/SrNightmare09/crypto-prediction.git
 ```
+
 - Run the following commands to install the required libraries for the code - 
 
 ```
@@ -65,11 +66,13 @@ pip install plotly
 ## How It Works - The Gold Line vs Death Line Algorithm
 
 - The program receives data of the chosen cryptocurrency from Yahoo finance from which it creates a chart based on the original prices of the cryptocurrency. 
+- 
 - Moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
 
 ```
 MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
 ```
+
 - Another moving average, this time for 20 days (MA₂₀), is plotted in the graph as the 'Death Line', where
 
 ```
