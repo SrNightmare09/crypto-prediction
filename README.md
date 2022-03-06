@@ -13,7 +13,7 @@
 
 - Allows user to input to customize the following in the chart - currency, cryptocurrency, time period and time interval
 
--  Various built-in chart functions such as zooming and downloading the plotted graph, thanks to plotly <!--Link to libraries used in same file ^ -->
+-  Various built-in chart functions such as zooming and downloading the plotted graph, thanks to [plotly](https://github.com/SrNightmare09/crypto-prediction/edit/add-readme/README.md#resources)
 
 - Data is viewable for every candlestick in the data chart
 
@@ -60,8 +60,8 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 #### Here is a list of resources which helped me, both - the libraries I used and the sources which helped me for the understanding of the algorithm
 
 > Libraries used
-> - [Yahoo Finance]
-> - [Plotly]
+> - [Yahoo! Finance](https://pypi.org/project/yfinance/)
+> - [Plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 
 > Sources for understanding algorithm
 > - [Binance - Golden Cross and Death Cross Explained](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)
