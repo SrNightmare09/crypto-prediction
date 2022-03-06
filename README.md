@@ -7,6 +7,8 @@
 
 ###### *Image: Preview of the graph*
 
+---
+
 ## Features
 
 - Interactive graph
@@ -20,6 +22,8 @@
 - Along with the graph, a table is also rendered to output important data
 
 ###### *Head to [project screenshots](/screenshots) to check out the mentioned features!*
+
+---
 
 ## How It Works - The Gold Line vs Death Line Algorithm
 
@@ -69,3 +73,19 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 > - [YouTube - 15 min Crypto Trading Strategy Golden Cross Tested 100 times](https://www.youtube.com/watch?v=Iw5sHVlSzaE)
 
 I would like to thank for the availibilty of these resources as the project would not have been in existence without them!
+
+---
+
+## Contributing
+
+Contributions are always welcome!
+
+See <a href = "CONTRIBUTING.md">`CONTRIBUTING.md`</a> for ways to get started.
+
+Please adhere to this project's <a href = "CODE_OF_CONDUCT.md">`CODE OF CONDUCT`</a>.
+
+---
+
+## License
+
+[MIT](LICENSE)  
