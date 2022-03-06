@@ -45,8 +45,6 @@
 
 ## Installation
 
-###### *Note: Currently the project can only be run through raw cloning of the code and running it*
-
 - Clone the repository by running the following command
 
 ```
@@ -68,6 +66,8 @@ pip install plotly
 - When all input values have been received, your terminal will print a table with statistics, along with a plotted graph also being rendered.
  
 - And, we're done! But that's not it, feel free to edit the code as you wish, add features and feel free to send a pull request. Read about contributing [here](CONTRIBUTING.md)
+
+###### *Note: Currently the project can only be run through raw cloning of the code and running it*
 
 ---
 
@@ -124,7 +124,7 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 > - [YouTube - Golden Cross Explained: Why most traders get it wrong (and how it really works)](https://www.youtube.com/watch?v=6mckJdktXkc)
 > - [YouTube - 15 min Crypto Trading Strategy Golden Cross Tested 100 times](https://www.youtube.com/watch?v=Iw5sHVlSzaE)
 
-I would like to thank for the availibilty of these resources as the project would not have been in existence without them!
+I would like to thank for the availibility of these resources as the project would not have been in existence without them!
 
 ---
 
