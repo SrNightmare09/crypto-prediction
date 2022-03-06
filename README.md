@@ -66,7 +66,7 @@ pip install plotly
 ## How It Works - The Gold Line vs Death Line Algorithm
 
 - The program receives data of the chosen cryptocurrency from Yahoo finance from which it creates a chart based on the original prices of the cryptocurrency. 
-- 
+
 - Moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
 
 ```
