@@ -7,7 +7,16 @@ user_crypto_currency = input('Enter the currency code of the cryptocurrency: ')
 user_currency = input('Enter the ISO code of your currency: ')
 user_tickers = user_crypto_currency.upper() + '-' + user_currency.upper()
 
-data = yf.download(tickers=user_tickers, period='3mo', interval='1d')
+user_period = input('Enter the number for the period of the chart (m/h/d/mo/y): ')
+
+valid_intervals = ['1m', '2m', '5m', '15m', '30m', '60m', '90m', '1h', '1d', '5d', '1wk', '1mo', '3mo']
+
+for i in range(0, len(valid_intervals)):
+    print(str(i + 1) + ': ' + str(str({valid_intervals[i]}).removeprefix("{'").removesuffix("'}")))
+
+user_interval = int(input('Enter corresponding number to the wanted interval: '))
+
+data = yf.download(tickers=user_tickers, period=user_period, interval=valid_intervals[user_interval - 1])
 print(data)
 
 data['MA5'] = data['Close'].rolling(5).mean()
