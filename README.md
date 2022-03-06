@@ -27,10 +27,10 @@
 - Moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
 
 ```
-MA₅ = (M₁ + M₂ + M₃ + M₄ + M₅) / 5
+MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
 ```
 - Another moving average, this time for 20 days (MA₂₀), is plotted in the graph as the 'Death Line', where
 
 ```
-MA₁₂₃₄₅₀ = (M₁ + M₂ + M₃ + M₄ ... M₂₀) / 5
+MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 5
 ```
