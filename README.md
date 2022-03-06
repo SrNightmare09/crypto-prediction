@@ -43,5 +43,10 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 
 - Two situations will always be visible in the graph - Death Line being higher than the Gold Line and vice-versa; both these situations will help us make decisions for either buying or selling
 
-- When the Death line crosses the Gold line and gets higher than the latter in the graph, it indicates a bearish moving average in the future market. This time is the perfect for selling.
+- When the Death line crosses the Gold line and gets higher in the graph, it indicates a bearish moving average in the future market. This time is the perfect for selling
  
+ <img src = /screenshots/charts/selling_point.png>
+
+- When the Gold line crosses the Death line and gets higher in the graph, it indicates a bullish moving average in the future market. This time is the perfect for buying
+
+<img src = /screenshots/charts/buying_point.png>
