@@ -15,7 +15,7 @@ data['MA20'] = data['Close'].rolling(20).mean()
 
 fig = go.Figure()
 
-fig.add_trace(go.Candlestick(x=data.index, open=data['Open'], high=data['High'], low=data['Low'], close=data['Close'], name = 'market data'))
+fig.add_trace(go.Candlestick(x=data.index, open=data['Open'], high=data['High'], low=data['Low'], close=data['Close'], name = 'Market data'))
 
 fig.add_trace(go.Scatter(x=data.index, y=data['MA20'], line=dict(color='black', width = 1.5), name='Death Line'))
 fig.add_trace(go.Scatter(x=data.index, y=data['MA5'], line=dict(color='orange', width=1.5), name='Gold Line'))
