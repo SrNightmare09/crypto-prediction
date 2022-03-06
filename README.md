@@ -157,6 +157,8 @@ Please adhere to this project's <a href = "CODE_OF_CONDUCT.md">`CODE OF CONDUCT`
 
 ---
 
+<br>
+
 ## License
 
 [MIT](LICENSE)  
