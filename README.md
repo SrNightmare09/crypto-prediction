@@ -9,6 +9,16 @@
 
 ---
 
+## Table of Contents
+
+- [Features](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#features)
+- [Installation](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#installation)
+- [How It Works - The Gold Line vs Death Line Algorithm](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#how-it-works---the-gold-line-vs-death-line-algorithm)
+- [Resources](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#resources)
+- [Upcoming Features](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#upcoming-features)
+- [Contributing](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#contributing)
+- [MIT License](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#license)
+
 ## Features
 
 - Interactive graph
@@ -45,7 +55,9 @@ pip install plotly
 ```
 
 - Run `index.py` from the `src` folder. On doing this, A few questions will be asked in your terminal related to the plotting, please give valid input for proper functioning of the graph.
+
 - When all input values have been received, your terminal will print a table with statistics, along with a plotted graph also being rendered.
+ 
 - And, we're done! But that's not it, feel free to edit the code as you wish, add features and feel free to send a pull request. Read about contributing [here](CONTRIBUTING.md)
 
 ---
