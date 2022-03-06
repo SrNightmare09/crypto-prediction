@@ -77,7 +77,7 @@ pip install plotly
 
 - The program receives data of the chosen cryptocurrency from Yahoo! finance, from which it creates a chart based on the original prices of the cryptocurrency. 
 
-- Moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
+- The moving average of 5 days (MA₅) is taken and then plotted in the graph as the 'Gold Line', where 
 
 ```
 MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
