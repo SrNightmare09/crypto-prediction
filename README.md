@@ -101,6 +101,18 @@ I would like to thank for the availibilty of these resources as the project woul
 
 ---
 
+## Upcoming Features
+
+#### A list of a few features which I will add in the later versions of the project - 
+
+- [ ] Error handling for user input
+- [ ] Viewing table alongside graph instead of in the terminal
+- [ ] Future price predictions
+- [ ] Response of code for predicting price by taking real-life events into consideration as well
+- [ ] Implement code into a downloadable and useable application
+- [ ] Add more graph tools (like drawing tools)
+- [ ] Implement shortcuts for graph tools
+
 ## Contributing
 
 Contributions are always welcome! Feel free to fork this project, report issues/bugs, etc.
