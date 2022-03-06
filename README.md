@@ -1,1 +1,1 @@
-<h1><center>Crypto Prediction</center></h1>
+# Crypto Prediction
