@@ -11,13 +11,13 @@
 
 ## Table of Contents
 
-- [Features](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#features)
-- [Installation](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#installation)
-- [How It Works - The Gold Line vs Death Line Algorithm](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#how-it-works---the-gold-line-vs-death-line-algorithm)
-- [Resources](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#resources)
-- [Upcoming Features](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#upcoming-features)
-- [Contributing](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#contributing)
-- [MIT License](https://github.com/SrNightmare09/crypto-prediction/tree/add-readme#license)
+- [Features](https://github.com/SrNightmare09/crypto-prediction#features)
+- [Installation](https://github.com/SrNightmare09/crypto-prediction#installation)
+- [How It Works - The Gold Line vs Death Line Algorithm](https://github.com/SrNightmare09/crypto-prediction#how-it-works---the-gold-line-vs-death-line-algorithm)
+- [Resources](https://github.com/SrNightmare09/crypto-prediction#resources)
+- [Upcoming Features](https://github.com/SrNightmare09/crypto-prediction#upcoming-features)
+- [Contributing](https://github.com/SrNightmare09/crypto-prediction#contributing)
+- [MIT License](https://github.com/SrNightmare09/crypto-prediction#license)
 
 ## Features
 
