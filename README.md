@@ -4,10 +4,9 @@
 
 ---
 
-## Features 
+## Features
 - Allows user to input to customize the following in the chart - currency, cryptocurrency, time period and time interval
 -  Various built-in chart functions such as zooming and downloading the plotted graph, thanks to plotly <!--Link to libraries used in same file ^ -->
 -  Data is viewable for every candlestick in the data chart
--  Vast list of selectable time intervals
 -  Along with the graph, a table is also rendered to output important data
 -  And much more...
