@@ -51,5 +51,21 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 
 <img src = /screenshots/charts/buying_point.png>
 
-###### *Read more about Death Cross and Golden Cross [here](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)
+###### *Read more about Death Cross and Golden Cross [here](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)*
 
+---
+
+## Resources
+
+#### Here is a list of resources which helped me, both - the libraries I used and the sources which helped me for the understanding of the algorithm
+
+> Libraries used
+> - [Yahoo Finance]
+> - [Plotly]
+
+> Sources for understanding algorithm
+> - [Binance - Golden Cross and Death Cross Explained](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)
+> - [YouTube - Golden Cross Explained: Why most traders get it wrong (and how it really works)](https://www.youtube.com/watch?v=6mckJdktXkc)
+> - [YouTube - 15 min Crypto Trading Strategy Golden Cross Tested 100 times](https://www.youtube.com/watch?v=Iw5sHVlSzaE)
+
+I would like to thank for the availibilty of these resources as the project would not have been in existence without them!
