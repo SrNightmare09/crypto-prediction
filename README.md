@@ -13,7 +13,7 @@
 
 - Allows user to input to customize the following in the chart - currency, cryptocurrency, time period and time interval
 
--  Various built-in chart functions such as zooming and downloading the plotted graph, thanks to [plotly](https://github.com/SrNightmare09/crypto-prediction/edit/add-readme/README.md#resources)
+-  Various built-in chart functions such as zooming and downloading the plotted graph, thanks to [plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 
 - Data is viewable for every candlestick in the data chart
 
