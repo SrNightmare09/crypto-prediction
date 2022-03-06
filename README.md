@@ -141,6 +141,7 @@ I would like to thank for the availibilty of these resources as the project woul
 - [ ] Implement code into a downloadable and useable application
 - [ ] Add more graph tools (like drawing tools)
 - [ ] Implement shortcuts for graph tools
+- [ ] Add dark mode/light mode toggle
 
 ---
 
