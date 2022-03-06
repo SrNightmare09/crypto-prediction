@@ -25,6 +25,31 @@
 
 ---
 
+## Installation
+
+###### *Note: Currently the project can only be run through raw cloning of the code and running it*
+
+- Clone the repository by running the following command
+
+```
+git clone https://github.com/SrNightmare09/crypto-prediction.git
+```
+- Run the following commands to install the required libraries for the code - 
+
+```
+pip install yfinance
+```
+
+```
+pip install plotly
+```
+
+- Run `index.py` from the `src` folder. On doing this, A few questions will be asked in your terminal related to the plotting, please give valid input for proper functioning of the graph.
+- When all input values have been received, your terminal will print a table with statistics, along with a plotted graph also being rendered.
+- And, we're done! But that's not it, feel free to edit the code as you wish, add features and feel free to send a pull request. Read about contributing [here](CONTRIBUTING.md)
+
+---
+
 ## How It Works - The Gold Line vs Death Line Algorithm
 
 - The program receives data of the chosen cryptocurrency from Yahoo finance from which it creates a chart based on the original prices of the cryptocurrency. 
@@ -78,7 +103,7 @@ I would like to thank for the availibilty of these resources as the project woul
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome! Feel free to fork this project, report issues/bugs, etc.
 
 See <a href = "CONTRIBUTING.md">`CONTRIBUTING.md`</a> for ways to get started.
 
