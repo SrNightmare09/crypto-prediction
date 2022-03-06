@@ -43,10 +43,13 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 
 - Two situations will always be visible in the graph - Death Line being higher than the Gold Line and vice-versa; both these situations will help us make decisions for either buying or selling
 
-- When the Death line crosses the Gold line and gets higher in the graph, it indicates a bearish moving average in the future market. This time is the perfect for selling
+- When the Death line crosses the Gold line and gets higher in the graph, it indicates a bearish moving average in the future market. This situation is known as the Death Cross and it is the perfect time for selling
  
  <img src = /screenshots/charts/selling_point.png>
 
-- When the Gold line crosses the Death line and gets higher in the graph, it indicates a bullish moving average in the future market. This time is the perfect for buying
+- When the Gold line crosses the Death line and gets higher in the graph, it indicates a bullish moving average in the future market. This situation is known as the Golden Cross and it is the perfect time for buying
 
 <img src = /screenshots/charts/buying_point.png>
+
+###### *Read more about Death Cross and Golden Cross [here](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)
+
