@@ -34,3 +34,9 @@ MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
 ```
 MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 5
 ```
+
+- The graph helps detecting bullish and bearish trends, ie. helps when you should buy or sell. It is explained in the following points.
+- The graph tries to catch a global trend, over which a short-term 'Gold Line' and a long-term 'Black Line' is plotted
+- The Gold Line will always be more accurate with the prices as it is a short-term moving average compared to the Death Line
+- Two situations will always be visible in the graph - Death Line being higher than the Gold Line and vice-versa; both these situations will help us make decisions for either buying or selling
+- When the Death line crosses the Gold line and gets higher than the latter in the graph, it indicates a bearish moving average in the future market. This time is the perfect for selling.
