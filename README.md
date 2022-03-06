@@ -89,7 +89,7 @@ MA₅ = (MA₁ + MA₂ + MA₃ + MA₄ + MA₅) / 5
 MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 ```
 
-- The graph helps detecting bullish and bearish trends, ie. helps when you should buy or sell. It is explained in the following points.
+- The graph helps detecting bullish and bearish trends, i.e., helps when you should buy or sell. It is explained in the following points.
 
 - The graph tries to catch a global trend, over which a short-term 'Gold Line' and a long-term 'Black Line' is plotted
 
