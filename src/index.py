@@ -3,6 +3,10 @@ import pandas as pd
 import yfinance as yf
 import plotly.graph_objs as go
 
+user_crypto_currency = input('Enter the currency code of the cryptocurrency: ')
+user_currency = input('Enter the ISO code of your currency: ')
+user_tickers = user_crypto_currency.upper() + '-' + user_currency.upper()
+
 data = yf.download(tickers='BTC-USD', period='3mo', interval='1d')
 print(data)
 
