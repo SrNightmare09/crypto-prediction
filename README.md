@@ -1,6 +1,6 @@
-# Cryptocurrency Prediction Help
+# Cryptocurrency Prediction Assistance
 
-#### A cryptocurrency bot which can help you predict future crypto prices through comparing previous crypto prices with actual prices. The bot uses the method of Death Cross vs Golden Cross, a reliable method for solid predictions of prices, to make a plot based on previously predicted data.
+#### A cryptocurrency bot which can assist you in predicting future crypto prices through comparing previous crypto prices with actual prices. The bot uses the method of Death Cross vs Golden Cross, a reliable method for solid predictions of prices, to make a plot based on previously predicted data.
 
 ---
 <img src = "/screenshots/graph.png">
