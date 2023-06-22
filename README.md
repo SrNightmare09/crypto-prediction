@@ -73,6 +73,9 @@ pip install plotly
 
 <br>
 
+<details>
+ <summary>How It Works</summary>
+
 ## How It Works - The Gold Line vs Death Line Algorithm
 
 - The program receives data of the chosen cryptocurrency from Yahoo! finance, from which it creates a chart based on the original prices of the cryptocurrency. 
@@ -108,6 +111,8 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 ###### *Read more about Death Cross and Golden Cross [here](https://academy.binance.com/en/articles/golden-cross-and-death-cross-explained)*
 
 ---
+
+</details>
 
 <br>
 
