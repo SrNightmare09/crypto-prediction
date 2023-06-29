@@ -1,92 +1,90 @@
-# Contributing
+# Contributing Guidelines
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+Welcome to the project! We appreciate your interest in contributing. This document will guide you through the process of contributing to our repository. We value the time and effort of our contributors, and we strive to create an inclusive and collaborative community.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+## Table of Contents
 
-## Pull Request Process
+- [Ways to Contribute](#ways-to-contribute)
+- [Getting Started](#getting-started)
+- [Development Workflow](#development-workflow)
+- [Code Guidelines](#code-guidelines)
+- [Issue Guidelines](#issue-guidelines)
+- [Pull Request Guidelines](#pull-request-guidelines)
+- [Community Guidelines](#community-guidelines)
+- [Contact](#contact)
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+## Ways to Contribute
 
-## Code of Conduct
+There are several ways to contribute to our project:
 
-### Our Pledge
+1. Reporting bugs or suggesting enhancements by opening issues.
+2. Fixing issues and submitting pull requests.
+3. Improving documentation.
+4. Providing feedback and suggestions.
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+## Getting Started
 
-### Our Standards
+To get started with contributing, follow these steps:
 
-Examples of behavior that contributes to creating a positive environment
-include:
+1. Fork the repository.
+2. Clone the forked repository to your local machine.
+3. Install the required dependencies.
+4. Create a new branch for your changes.
+5. Make your changes and ensure they adhere to the [code guidelines](#code-guidelines).
+6. Commit your changes with descriptive commit messages.
+7. Push your changes to your forked repository.
+8. Submit a pull request to the main repository.
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+## Development Workflow
 
-Examples of unacceptable behavior by participants include:
+When working on the project, please follow these guidelines:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+1. Always work on a new branch for each separate issue or feature.
+2. Keep your branch up to date with the main repository's `master` branch.
+3. Write clear and descriptive commit messages.
+4. Test your changes thoroughly before submitting a pull request.
+5. Keep discussions polite and respectful.
 
-### Our Responsibilities
+## Code Guidelines
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+- Follow the existing code style and conventions.
+- Write clear, self-explanatory, and well-documented code.
+- Ensure your code is properly formatted.
+- Write unit tests for your code whenever applicable.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+## Issue Guidelines
 
-### Scope
+If you encounter a bug, want to suggest an enhancement, or have any other issue:
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+1. Search for existing issues before opening a new one.
+2. Provide detailed information about the issue or suggestion.
+3. Include steps to reproduce the problem if it's a bug.
+4. Tag relevant individuals or teams to bring attention to the issue.
 
-### Enforcement
+## Pull Request Guidelines
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at srnightmare09@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+To submit a pull request:
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+1. Make sure your changes are focused and address a single issue or feature.
+2. Provide a clear and descriptive title for your pull request.
+3. Include a summary of the changes and any additional context if necessary.
+4. Reference any related issues or pull requests in your description.
+5. Be responsive to feedback and questions during the review process.
 
-### Attribution
+## Community Guidelines
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+We expect all contributors to adhere to the following community guidelines:
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+1. Be respectful and considerate towards others.
+2. Use inclusive language and promote a welcoming environment.
+3. Avoid personal attacks, harassment, or discrimination.
+4. Keep discussions on-topic and constructive.
+5. Help others and contribute positively to the community.
+
+## Contact
+
+If you have any questions, concerns, or need further assistance, you can reach us at srnightmare09@gmail.com.
+
+---
+
+We appreciate your interest and contributions to our project. Thank you for helping us make it better!
