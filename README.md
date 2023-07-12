@@ -116,6 +116,9 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 
 <br>
 
+<details>
+    <summary>Resources</summary>
+
 ## Resources
 
 #### Here is a list of resources which helped me, both - the libraries I used and the sources which helped me for the understanding of the algorithm
@@ -130,6 +133,8 @@ MA₂₀ = (MA₁ + MA₂ + MA₃ + MA₄ ... MA₂₀) / 20
 > - [YouTube - 15 min Crypto Trading Strategy Golden Cross Tested 100 times](https://www.youtube.com/watch?v=Iw5sHVlSzaE)
 
 I would like to thank for the availibility of these resources as the project would not have been in existence without them!
+
+</details>
 
 ---
 
